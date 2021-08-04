@@ -3,8 +3,8 @@
 
 # Features
 
-* Calculation of Addition of n numbers
-* Calculation of Subtraction of two numbers
-* Calculation of Multiplication of two numbers
-* Calculation of Division of two numbers
-* Calculation of Power of two numbers
+* Addition of n numbers
+* Subtraction of two numbers
+* Multiplication of two numbers
+* Division of two numbers
+* Power of two numbers
